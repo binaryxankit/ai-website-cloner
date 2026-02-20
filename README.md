@@ -158,6 +158,7 @@ website-cloner/
 - Input validation for URLs
 - Secure handling of API keys
 - No sensitive data storage
+- Rate limiting recommended for production use
 
 ## Contributing
 

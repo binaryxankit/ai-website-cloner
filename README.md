@@ -124,6 +124,11 @@ website-cloner/
 - **Input**: `{ "url": "https://example.com" }`
 - **Output**: `{ "html": "...", "message": "Website cloned successfully" }`
 
+### Health Check
+
+- **Endpoint**: `GET /health`
+- **Response**: `{ "status": "ok" }`
+
 ## Troubleshooting
 
 ### Common Issues
